@@ -1,0 +1,37 @@
+Menentukan bilangan ganjil/genap
+1. Siapkan angka 2 dan pembagian
+2. Jika bilangannya bisa dibagi 2, maka bilangan tersebut genap
+3. Jika tidak bisa dibagi 2, maka bilangan tersebut ganjil
+4. Kemudian keluar hasilnya
+
+Menentukan bilangan prima
+1. Siapkan angka 1 dan bilangan itu sendiri
+2. Jika hanya bisa dibagi angka 1 dan bilangan itu sendiri maka itu bilangan prima
+3. Jika tidak bisa dibagi angka 1 dan bilangan itu sendiri maka itu bukan bilangan prima
+
+Menghitung panjang
+1. Siapkan km, hm, dam, m dm, cm, mm dan angka
+2. Jika turun satu tangga semisal meter ke desimeter maka dikali 10
+3. Jika naik satu tangga semisal milimeter ke centimeter maka dibagi 10
+
+Menghitung keliling
+1. Siapkan angka dan persegi
+2. Kemudian masukkan rumus nya sisi dikali sisi dikali sisi dikali sisi
+4. Kemudian akan keluar hasilnya
+
+Menghitung luas
+1. Siapkan kubus dan angka
+2. Kemudian rumusnya 6 dikali sisi dikali sisi
+3. Kemudian akan keluar hasilnya
+
+Menghitung nilai akhir
+1. Siapkan angka
+2. Masukkan angka 6, 9, 7, 2
+3. Tambahkan semua angka tersebut
+4. Kemudian dibagi banyaknya jumlah frekuensi angka tersebut yakni ada 4 angka
+5. Kemudian akan keluar hasilnya
+
+Menentukan umur
+1. Siapkan tahun kelahiran dan tahun sekarang
+2. Masukkan rumus tahun sekarang dikurangi tahun kelahiran
+3. Maka akan keluar hasilnya
